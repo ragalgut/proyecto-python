@@ -48,13 +48,13 @@ Las versiones indicadas en rojo se consideran  obsoletas y las versiones con un 
 
    En comparación con otros lenguajes el código es más sencillo de leer y comprensible.
 
-   **Python**
+   ***Python***
    ```Python
-   print("Hola)
+   print("Hola")
 
    ```
 
-   **Visual Basic**
+   ***Visual Basic***
    ```vb
    Module Module1
        Sub Main()
@@ -64,7 +64,7 @@ Las versiones indicadas en rojo se consideran  obsoletas y las versiones con un 
    End Module
    ```
 
-   **Java**
+   ***Java***
    ```Java
    public static void
    main(String[] args) {
@@ -72,7 +72,7 @@ Las versiones indicadas en rojo se consideran  obsoletas y las versiones con un 
    }
    ```
 
-   **C++**
+   ***C++***
    ```C
    #include
    int main() {
